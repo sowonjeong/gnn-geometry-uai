@@ -1,7 +1,7 @@
 # gnn-geometry-uai
 
 ## 1. Overview
-This repository contains the implementation and experiments of different graph operators.
+This repository contains the implementation and experiments of different graph convolution operators.
 
 ## 2. Setup
 ### 2-1. Installation
@@ -17,7 +17,7 @@ This repository contains the implementation and experiments of different graph o
 
 ### 2-2. Datasets
 
-The `data\` folder contains source file for:
+The `dataset\` folder contains source file for:
 * Cora
 
 ## 3. Usage
