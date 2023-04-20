@@ -7,6 +7,7 @@ This repository contains the implementation and experiments of different graph o
 ### 2-1. Installation
 
 **Dependencies**
+
    * pytorch 1.10
    * pytorch geometric 2.0.5
 
