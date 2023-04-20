@@ -17,7 +17,7 @@ This repository contains the implementation and experiments of different graph c
 
 ### 2-2. Datasets
 
-The `dataset\` folder contains source file for:
+The `dataset/` folder contains source file for:
 * Cora
 
 ## 3. Usage
